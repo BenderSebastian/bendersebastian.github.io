@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a masters student of mathematics at the [Technical University of Munich](http://tum.de). I am currently interested in algebraic topology and category theory.
+I am a master's student of mathematics at the [Technical University of Munich](http://tum.de). I am currently interested in algebraic topology and category theory.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
