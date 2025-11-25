@@ -11,20 +11,19 @@
       "city": "Munich",
       "countryCode": "Germany",
       "region": "Bavaria"
-    },
+    }
   },
-  
-  "education": {
+  "education": [
     {
       "institution": "Technical University of Munich",
       "location": "Munich, Germany",
       "url": "https://www.tum.de/",
       "area": "Mathematics",
       "studyType": "B.Sc.",
-      "endDate": "2025-11-12",
+      "startDate": "2021-10-01",
+      "endDate": "2025-11-12"
     }
-  },
- 
+  ],
   "languages": {
     {
       "language": "German",
@@ -42,11 +41,9 @@
       "icon": ""
     }
   },
-  
   "interests": [
     {
       "name": "Mathematics",
-      "icon": "fa-solid fa-tag",
       "keywords": [
         "Algebraic Topology",
         "Category Theory",
@@ -54,6 +51,5 @@
         "Homotopy Theory"
       ]
     }
-  ],
-  
+  ]
 }
