@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sebastian Bender",
-    "label": "",
+    "label": "Master's student",
     "image": "",
     "email": "sebastian.a.bender@tum.de",
     "phone": "",
@@ -14,7 +14,7 @@
     },
   },
   
-  "education": [
+  "education": {
     {
       "institution": "Technical University of Munich",
       "location": "Munich, Germany",
@@ -23,9 +23,9 @@
       "studyType": "B.Sc.",
       "endDate": "2025-11-12",
     }
-  ],
+  },
  
-  "languages": [
+  "languages": {
     {
       "language": "German",
       "fluency": "Native speaker",
@@ -41,7 +41,7 @@
       "fluency": "B1",
       "icon": ""
     }
-  ],
+  },
   
   "interests": [
     {
