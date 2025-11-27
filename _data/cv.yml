@@ -2,13 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Sebastian Bender
+      value: Sebastian Aravinda Bender
     - name: Date of Birth
       value: 19th August 2001
     - name: Languages
       value: English, German
-    - name: Current status
-      value: Master's student
 
 - title: Education
   type: time_table
